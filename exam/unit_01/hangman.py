@@ -32,6 +32,10 @@ def game(word):
             break
 
         letter = letter.lower()
+        if letter in guess_letters or letter in used_letters:
+            print('This letter has already used. Type another one.')
+            continue
+
         if letter in word:
             guess_letters.append(letter)
             hidden_word = [
