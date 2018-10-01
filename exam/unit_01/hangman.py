@@ -20,11 +20,18 @@ def game(word):
     # initial state
     hidden_word = ['_'] * len(word)
     guess_letters = []
+    used_letters = []
     misses = 0
 
     # game loop
     while True:
+        print('-' * 50)
+
         letter = input('Enter the letter: ')
+        if letter == '-':
+            break
+
+        letter = letter.lower()
         if letter in word:
             guess_letters.append(letter)
             hidden_word = [
@@ -34,16 +41,20 @@ def game(word):
             if '_' not in hidden_word:
                 break
         else:
+            used_letters.append(letter)
             misses += 1
             if misses == LIMIT_TRIES:
                 break
             print(f'Try again. You have {LIMIT_TRIES - misses} more tries')
+            print(f'Your used letters: {",".join(used_letters)}')
 
         print(''.join(hidden_word))
 
     # display resaults
     print('=' * 50)
-    if '_' in hidden_word:
+    if '-' == letter:
+        print('You quit the game')
+    elif '_' in hidden_word:
         print('Ooops! You lose!')
     else:
         print('Congratulation! You win!')
