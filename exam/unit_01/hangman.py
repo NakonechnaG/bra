@@ -2,7 +2,9 @@
 # Hangman (game)
 # https://en.wikipedia.org/wiki/Hangman_(game)
 
+import os
 import random
+from animation import draw_hangman
 
 LIMIT_TRIES = 6
 
@@ -16,6 +18,26 @@ def get_random_word():
     return random.choice(words)
 
 
+def draw_frame(misses, word, used_letters):
+    os.system('clear')
+
+    print('-' * 50)
+    draw_hangman(misses)
+    if used_letters:
+        print(f'Your used letters: {",".join(used_letters)}')
+    else:
+        print()
+    print()
+    print('Secret word:', ''.join(word))
+    print()
+
+
+def draw_message(message):
+    print()
+    print(message)
+    input('Press enter to continue\n')
+
+
 def game(word):
     # initial state
     hidden_word = ['_'] * len(word)
@@ -25,15 +47,24 @@ def game(word):
 
     # game loop
     while True:
-        print('-' * 50)
+        draw_frame(
+            misses=misses,
+            word=hidden_word,
+            used_letters=used_letters,
+        )
 
-        letter = input('Enter the letter: ')
-        if letter == '-':
+        answer = input('Enter the letter: ')
+        answer = answer.strip()
+        if answer == '-':
             break
 
-        letter = letter.lower()
+        if len(answer) != 1:
+            draw_message('Please, enter only one letter.')
+            continue
+
+        letter = answer.lower()
         if letter in guess_letters or letter in used_letters:
-            print('This letter has already used. Type another one.')
+            draw_message('This letter has already used. Type another one.')
             continue
 
         if letter in word:
@@ -46,13 +77,21 @@ def game(word):
                 break
         else:
             used_letters.append(letter)
+
             misses += 1
             if misses == LIMIT_TRIES:
                 break
-            print(f'Try again. You have {LIMIT_TRIES - misses} more tries')
-            print(f'Your used letters: {",".join(used_letters)}')
 
-        print(''.join(hidden_word))
+            draw_message(
+                f'Try again. You have {LIMIT_TRIES - misses} more tries'
+            )
+
+    # display last frame
+    draw_frame(
+        misses=misses,
+        word=hidden_word,
+        used_letters=used_letters,
+    )
 
     # display resaults
     print('=' * 50)
@@ -60,11 +99,12 @@ def game(word):
         print('You quit the game')
     elif '_' in hidden_word:
         print('Ooops! You lose!')
+        print(f'Secret word was: {word}')
     else:
         print('Congratulation! You win!')
-    print(f'The word was: {word}')
     print(f'You used: {misses}/{LIMIT_TRIES} tries')
 
 
 word = get_random_word()
+word = word.lower()
 game(word)
