@@ -4,6 +4,7 @@
 
 print([i ** 2 for i in range(1, 100)])
 
+
 # 2
 # Make a program that prompts the user to input the name of a car, the program
 # should save the input in a list and ask for another, and then another, until
@@ -19,6 +20,7 @@ while True:
     else:
         cars.append(answer)
 print(cars)
+
 
 # 3
 # Start of with any list containing at least 10 elements, then print all
