@@ -43,8 +43,480 @@ show_country(country)
 # parameter. Then return the sum or product of all the numbers in the
 # arbitrary parameter. For example:
 # the call make_operation(‘+’, 7, 7, 2) should return 16
-# The call make_operation(‘-’, 5, 5, -10, -20) should return 30
-# The call make_operation(‘*’, 7, 6) should return 42
+# The call make_operation(‘-’, 5, 5, -10, -20) shoul
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly beli
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Latevable. If you are 
+going to use a passage of Lorem Ipsum, you need to b
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Late sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Latd return 30
+# The call make_operation(‘*’, 7, 6) should return 4
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat
+There are many variations of passages of Lorem Ipsum available, but the 
+majority have suffered alteration in some form, by injected humour, or 
+randomised words which don't look even slightly believable. If you are 
+going to use a passage of Lorem Ipsum, you need to be sure there isn't 
+anything embarrassing hidden in the middle of text. All the Lorem Ipsum 
+generators on the Internet tend to repeat predefined chunks as necessary, 
+making this the first true generator on the Internet. It uses a dictionary 
+of over 200 Lat2
 
 from operator import add, sub, mul, truediv
 
