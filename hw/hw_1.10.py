@@ -18,5 +18,5 @@ class Person():
         print(f"Hello, my name is {self.firstname} {self.lastname} and I'm {self.age} years old.")
 
 
-my_person = Person('Miya', 'Nakonechna', 2)
+my_person = Person('Miya', 'Jay', 2)
 my_person.talk()
