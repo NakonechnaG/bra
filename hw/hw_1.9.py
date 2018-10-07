@@ -1,4 +1,4 @@
-# # 1
+# 1
 # Saving progress.
 # Make a function that takes personal information as arguments, e.g., name,
 # last name, phone number, address, etc. Then make another function that saves
@@ -29,7 +29,7 @@ info = get_personal_information()
 
 write_information(info)
 
-# # 2
+# 2
 # Add to the previous program a function for opening up the same file which
 # the data was saved on. Make sure that it works by making the function print
 # out the data.
