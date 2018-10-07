@@ -1,5 +1,4 @@
 # 1
-
 # Exclusive common numbers.
 # Generate 2 lists of length 10 with random integers from 1 to 10, and make a
 # third list containing the common integers between the 2 initial lists
