@@ -1,7 +1,6 @@
 # 1
-# 1
 # dict comprehension exercise.
-# Make a program that given a whole sentence (a string) will make a dict 
+# Make a program that given a whole sentence (a string) will make a dict
 # containing all unique words as keys and the number of occurrences as values.
 
 text = """
@@ -21,7 +20,7 @@ words = text.lower().split()
 uniq_words = {}
 for word in words:
     count = uniq_words.get(word, 0)
-    uniq_words[word] = count + 1        
+    uniq_words[word] = count + 1
 print(uniq_words)
 
 # 2
