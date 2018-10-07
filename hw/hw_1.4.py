@@ -6,7 +6,7 @@
 
 import random
 
-num = random.randint(1, 10) 
+num = random.randint(1, 10)
 answer = input('Try to guess, what number was generated from 1 to 10 ? ')
 if int(answer) == int(num):
     print('WOW! You are seer! ')
@@ -20,6 +20,6 @@ else:
 # “Hello <name>, on your next birthday you’ll be <age+1> years”
 
 name = input("What's your name? ")
-age = input('How old are you? ') 
+age = input('How old are you? ')
 age = int(age) + 1 
 print(f"Hello {name}, on your next Birthday you'll be {age} years ")
