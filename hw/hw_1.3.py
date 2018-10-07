@@ -4,6 +4,7 @@
 # for a phone number. The program should check that the string 
 # contains only numerical characters and is only 10 characters long. 
 # Print a suitable message depending on the outcome of the string evaluation.
+
 phone = input('Pleas, enter your phon number : ')
 
 if not phone.isdigit():
@@ -15,8 +16,8 @@ else:
 
 # 2
 # The math quiz program.
-# Write a program that asks the answer for 
-# a mathematical expression, checks whether the user 
+# Write a program that asks the answer for
+# a mathematical expression, checks whether the user
 # is right or wrong, and then responds with a message accordingly.
 
 import random
@@ -32,11 +33,12 @@ else:
 
 # 3
 # The name check.
-# Write a program that has a variable with your name stored 
-# (in lowercase) and then asks for your name as input. 
-# The program should check if your input is equal to the 
-# stored name even if the given name has another case, e.g., 
-# if your input is “Anton” and the stored name is “anton” it should return True.
+# Write a program that has a variable with your name stored
+# (in lowercase) and then asks for your name as input.
+# The program should check if your input is equal to the
+# stored name even if the given name has another case, e.g. 
+# if your input is “Anton” and the stored name is “anton” it should
+# return True.
 
 name = ('galyna')
 
