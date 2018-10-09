@@ -2,6 +2,7 @@
 
 import random
 from operator import attrgetter
+from dataclasses import dataclass, field
 
 PLAYERS_COUNT = 6
 DECK_SIZE = 36
@@ -16,31 +17,14 @@ class Player:
         self.cards = []
 
     def __repr__(self):
-        cards_str = ','.join(str(card) for card in self.cards)
         return self.name
 
 
+@dataclass(repr=False, order=True, frozen=True)
 class Card:
-    def __init__(self, rank, suit, power):
-        self.rank = rank
-        self.suit = suit
-        self.power = power
-
-    def __eq__(self, other):
-        return self.power == other.power
-    def __ne__(self, other):
-        return not self.__eq__(other)
-    def __gt__(self, other):
-        return self.power > other.power
-    def __lt__(self, other):
-        return self.power < other.power
-    def __ge__(self, other):
-        return self.power >= other.power
-    def __le__(self, other):
-        return self.power <= other.power
-
-    def __hash__(self):
-        return hash(f'{self.rank}:{self.suit}')
+    rank: str = field(compare=False, hash=True)
+    suit: str = field(compare=False, hash=True)
+    power: int = field(compare=True)
 
     def __repr__(self):
         return f'{self.rank}{self.suit}'
@@ -94,10 +78,6 @@ class Game:
 
         if len(winner_cards) == 1:
             round_winner = cards_players_map[win_card]
-
-            # shuffle cards to avoid infinite loop
-            random.shuffle(cards_on_table)
-
         else:
             # play more ext rounds
             round_winners = [cards_players_map[card] for card in winner_cards]
@@ -105,7 +85,11 @@ class Game:
 
         # winner gets the cards from the table
         if round_winner:
+            # shuffle cards to avoid infinite loop
+            random.shuffle(cards_on_table)
+
             round_winner.cards = round_winner.cards + cards_on_table
+
         return round_winner
 
     def _show_state(self):
